@@ -29,9 +29,12 @@ This plugin is perfect for:
 
 Press the `h` key to toggle _Now You See Me_ on and off.
 
-**Development of this plugin is done [on GitHub](https://github.com/jonorherrington/NowYouSeeMe). Pull requests welcome. Please see [issues reported](https://github.com/jonorherrington/NowYouSeeMe/issues) there before going to the plugin forum.**
+**Development of this plugin is done [on GitHub](https://github.com/jonorherrington/now-you-see-me). Pull requests welcome. Please see [issues reported](https://github.com/jonorherrington/now-you-see-me/issues) there before going to the plugin forum.**
 
 ## Changelog ##
+
+### 1.1.0 - April 10, 2015 ###
+* Update GitHub url to not be CamelCase.
 
 ### 1.0.0 - April 10, 2015 ###
 * Initial release
